@@ -1,0 +1,15 @@
+.select {
+  border: 1px solid #000;
+  font: 46px 'Arial';
+  height: 100px;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  width: 500px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.list_item {
+  display: none;
+ }
